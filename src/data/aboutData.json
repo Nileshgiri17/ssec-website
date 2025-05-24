@@ -1,0 +1,62 @@
+
+{
+  "pageTitle": "About Us",
+  "pageDescription": "Learn about our history, mission, vision, and achievements",
+  "heroImage": "/about-hero.jpg",
+  "mainContent": {
+    "title": "About Us",
+    "description": "Established with a vision to empower rural youth, Sant Singaji Engineering College (SSEC) offers cutting-edge technical education in Computer Science and IT. We focus on innovation, practical skills, and industry readiness.",
+    "mission": "To deliver industry-aligned technical education that empowers rural youth with the skills and mindset needed for success in the digital age.",
+    "vision": "To be a leading institution fostering innovation, research, and entrepreneurship in Computer Science and IT for sustainable global impact."
+  },
+"timeline": [
+  {
+    "year": "2010",
+    "title": "College Established",
+    "description": "Founded to provide quality higher education in a rural region."
+  },
+  {
+    "year": "2013",
+    "title": "First Batch Graduated",
+    "description": "Celebrated the graduation of the first batch of students."
+  },
+  {
+    "year": "2016",
+    "title": "1,000 Graduates Milestone",
+    "description": "Crossed the milestone of 1,000 students successfully graduating."
+  },
+  {
+    "year": "2019",
+    "title": "1,000+ Placements Achieved",
+    "description": "Achieved over 1,000 student placements in reputed companies."
+  },
+  {
+    "year": "2025",
+    "title": "Launch of Engineering College",
+    "description": "Established the first engineering college within a 100 km radius, dedicated to CS and IT excellence."
+  }
+],
+"facilities": [
+  {
+    "title": "Advanced Computer Lab",
+    "description": "Fully-equipped computer labs with high-speed internet and modern systems for hands-on technical learning.",
+    "image": "/facilities/computer-lab.jpg"
+  },
+  {
+    "title": "Live Industry Projects",
+    "description": "Students work on real-world software projects in collaboration with multiple companies, gaining practical experience.",
+    "image": "/facilities/live-projects.jpg"
+  },
+  {
+    "title": "Expert Mentorship",
+    "description": "Guidance and training by professionals from Microsoft, SAP, Infosys, Incher, Capgemini, and TCS to bridge the gap between education and industry.",
+    "image": "/facilities/mentorship.jpg"
+  },
+  {
+    "title": "Sports Facilities",
+    "description": "Well-maintained sports infrastructure supporting both indoor and outdoor games for holistic student development.",
+    "image": "/facilities/sports.jpg"
+  }
+]
+
+}

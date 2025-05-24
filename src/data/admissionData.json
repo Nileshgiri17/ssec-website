@@ -1,0 +1,116 @@
+
+{
+  "pageTitle": "Admission Process",
+  "pageDescription": "Learn about our admission requirements, process, and important dates",
+  "heroImage": "/admission-hero.jpg",
+  "mainContent": {
+    "title": "Join Our Engineering College",
+    "description": "Our admission process is designed to select motivated and talented students who have the potential to excel in engineering and technology fields. We welcome applications from students with strong academic backgrounds and a passion for innovation."
+  },
+  "eligibilityRequirements": [
+    {
+      "title": "Academic Qualification",
+      "description": "10+2 or equivalent with Physics, Chemistry, and Mathematics as compulsory subjects with minimum 60% aggregate marks (55% for reserved categories)."
+    },
+    {
+      "title": "Entrance Examination",
+      "description": "Valid score in JEE Main/State Engineering Entrance Examination or the college's own entrance test."
+    },
+    {
+      "title": "Age Criteria",
+      "description": "Candidates should not be more than 21 years of age as of July 1st of the admission year (relaxation for reserved categories as per norms)."
+    }
+  ],
+ "admissionProcess": [
+  {
+    "step": 1,
+    "title": "Online/Offline Registration",
+    "description": "Register for admission by filling out the application form online or visiting the campus in person."
+  },
+  {
+    "step": 2,
+    "title": "Interview Process",
+    "description": "Attend a personal interview to assess your interest, aptitude, and eligibility for the course."
+  },
+  {
+    "step": 3,
+    "title": "Document Verification",
+    "description": "Submit required documents in person or upload them online for verification."
+  },
+  {
+    "step": 4,
+    "title": "Counseling & Seat Allotment",
+    "description": "Take part in the counseling session and receive seat allotment based on performance and preferences."
+  },
+  {
+    "step": 5,
+    "title": "Fee Payment",
+    "description": "Pay the admission fees within the given time frame to confirm your allotted seat."
+  },
+  {
+    "step": 6,
+    "title": "Final Enrollment",
+    "description": "Complete the enrollment process by submitting original documents and joining the orientation program."
+  }
+],
+  "importantDates": [
+    {
+      "event": "Application Portal Opens",
+      "date": "January 15, 2025"
+    },
+    {
+      "event": "Last Date for Application",
+      "date": "March 30, 2025"
+    },
+    {
+      "event": "College Entrance Exam (if applicable)",
+      "date": "April 15, 2025"
+    },
+    {
+      "event": "Merit List Declaration",
+      "date": "May 10, 2025"
+    },
+    {
+      "event": "Counseling & Seat Allotment",
+      "date": "May 25-30, 2025"
+    },
+    {
+      "event": "Fee Payment Deadline",
+      "date": "June 15, 2025"
+    },
+    {
+      "event": "Academic Session Begins",
+      "date": "July 1, 2025"
+    }
+  ],
+  "documents": [
+    "10th Standard Mark Sheet and Certificate",
+    "12th Standard Mark Sheet and Certificate",
+    "JEE Main/Entrance Exam Score Card",
+    "Transfer Certificate/School Leaving Certificate",
+    "Character Certificate from Last Attended Institution",
+    "Migration Certificate (if applicable)",
+    "Category Certificate (if applicable)",
+    "Domicile Certificate (if applicable)",
+    "4 Passport Size Photographs",
+    "Aadhar Card/ID Proof"
+  ],
+"scholarships": [
+  {
+    "name": "Government Scholarship",
+    "eligibility": "Applicable for students belonging to OBC, SC, and ST categories as per government norms.",
+    "benefit": "Full or partial tuition fee waiver based on eligibility and government rules."
+  },
+  {
+    "name": "Gaon Ki Beti Scholarship",
+    "eligibility": "Female students from rural areas who have passed 12th standard from a recognized board.",
+    "benefit": "Fixed annual financial aid as per state government scheme."
+  },
+  {
+    "name": "SNS - SVS Merit Scholarship",
+    "eligibility": "Students who have successfully cleared the entrance exam conducted by SNS/SVS.",
+    "benefit": "Special tuition fee waiver or concession based on performance."
+  }
+]
+
+}
