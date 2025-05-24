@@ -9,6 +9,7 @@ import { Badge } from '@/components/ui/badge';
 const UpcomingEventDetail = () => {
   const { id } = useParams();
   const [loading, setLoading] = useState(true);
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const [event, setEvent] = useState<any>(null);
 
   useEffect(() => {

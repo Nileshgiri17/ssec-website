@@ -15,6 +15,7 @@ import { Button } from '@/components/ui/button';
 import { useMediaQuery } from '@/hooks/use-media-query';
 
 // Card component for announcements
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 const AnnouncementCard = ({ announcement }: { announcement: any }) => (
   <div className="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-all hover:-translate-y-1 animate-fade-in">
     <div className="flex items-center mb-4 text-primary">

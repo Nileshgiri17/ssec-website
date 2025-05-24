@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import coursesData from '../data/coursesData.json';
 import { ArrowRight, Book, CheckCircle, Clock } from 'lucide-react';
 
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 const CourseCard = ({ department }: { department: any }) => (
   <div className="bg-white rounded-lg shadow-lg overflow-hidden hover-scale card-shadow">
     <div className="h-48 bg-gray-300">
@@ -42,6 +43,7 @@ const CourseCard = ({ department }: { department: any }) => (
   </div>
 );
 
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 const CourseDetails = ({ department }: { department: any }) => (
   <div id={department.id} className="scroll-mt-24 py-16 border-t border-gray-200">
     <div className="flex flex-col md:flex-row gap-10">

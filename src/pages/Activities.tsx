@@ -8,7 +8,9 @@ import { CalendarDays, Users, Award, BookOpen, Download, ArrowRight, Home } from
 
 const Activities = () => {
   const [loading, setLoading] = useState(true);
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const [activities, setActivities] = useState<any[]>([]);
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const [upcomingEvents, setUpcomingEvents] = useState<any[]>([]);
 
   useEffect(() => {

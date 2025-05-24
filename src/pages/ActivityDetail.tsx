@@ -8,6 +8,7 @@ import { CalendarDays, MapPin, Users, ArrowLeft, Download } from 'lucide-react';
 const ActivityDetail = () => {
   const { id } = useParams();
   const [loading, setLoading] = useState(true);
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const [activity, setActivity] = useState<any>(null);
 
   useEffect(() => {
